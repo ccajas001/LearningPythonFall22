@@ -20,7 +20,7 @@ class EightBallGen:
 
         # history lists
         self.questionHistoryItems = ['Questions', '']
-        self.answerHistoryItems = ['Answers', ' ']
+        self.answerHistoryItems = ['Answers', '']
 
         # user input variable
         self.userInput = StringVar()
